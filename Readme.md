@@ -1,3 +1,4 @@
+[Go to index.php](index.php)
 # Chat_bot API Project in PHP
 
 This project is an **ChatGpt** **API** for a chat bot implemented in PHP. The API provides endpoints for sending messages to the bot, retrieving responses, and managing conversation history.
