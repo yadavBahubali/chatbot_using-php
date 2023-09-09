@@ -14,7 +14,7 @@ And,you will need an OpenAI API key. You can sign up for an API key on the [Open
 
 1. Clone the repository to your local machine.
 
-git clone https://github.com/yadavBahubali/chatbot_usingphp
+git clone [https://github.com/yadavBahubali/chatbot_usingphp](https://github.com/yadavBahubali/chatbot_using-php)
 
 2. Install dependencies using Composer.
 
