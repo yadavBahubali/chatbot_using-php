@@ -23,7 +23,7 @@ class DatabaseConnection {
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "chatgpt";
+$dbname = "chatbot";
 
 $connection = new DatabaseConnection($servername, $username, $password, $dbname);
 $conn = $connection->connect();
